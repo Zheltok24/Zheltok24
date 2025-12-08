@@ -34,5 +34,4 @@
 ---
 
 ## 📬 Контакты
-- Email: your@mail.com  
-- Telegram: @yourtag  
+- Email: kitro34da@gmail.com  
