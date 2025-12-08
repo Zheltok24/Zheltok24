@@ -1,16 +1,38 @@
-## Hi there 👋
+# Я Айдарулы Арсен
+### Junior Data Engineer
 
-<!--
-**Zheltok24/Zheltok24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Спокойный, быстро обучаюсь, умею понятно объяснять сложные вещи.  
+Хочу развиваться в области обработки данных, ETL и построения дата-пайплайнов.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Навыки
+- **Python** 
+- **SQL** 
+- **Docker**
+- HTML/CSS (базово)
+- Git, Linux CLI
+
+---
+
+## 🎓 Образование
+**Высшее образование**  
+Специальность: IT
+Место обучения: ЕНУ
+
+---
+
+## 📜 Сертификаты
+- Docker — [PDF](link_here)
+- SQL — [PDF](link_here)
+- Data Engineer (начальный уровень) — [PDF](link_here)
+
+---
+
+## 📂 Проекты
+### Сайт
+---
+
+## 📬 Контакты
+- Email: your@mail.com  
+- Telegram: @yourtag  
