@@ -23,14 +23,13 @@
 ---
 
 ## 📜 Сертификаты
-- Docker — [PDF](link_here)
-- SQL — [PDF](link_here)
-- Data Engineer (начальный уровень) — [PDF](link_here)
+https://github.com/Zheltok24/certificates.git
 
 ---
 
 ## 📂 Проекты
-### Сайт
+### Сайт мебели
+https://github.com/Zheltok24/backend.git
 ---
 
 ## 📬 Контакты
