@@ -30,6 +30,8 @@ https://github.com/Zheltok24/certificates.git
 ## 📂 Проекты
 ### Сайт мебели
 https://github.com/Zheltok24/backend.git
+### DWH project with ETL
+https://github.com/Zheltok24/data-warehouse-project/tree/main
 ---
 
 ## 📬 Контакты
